@@ -3136,7 +3136,7 @@
     "This might be due to permission configuration issues": "Это может быть связано с проблемами настройки разрешений",
     "Title": "Заголовок",
     "Title field is required": "Поле заголовка обязательно для заполнения",
-    "Mobile (deprecated)": "Мобильая версия (устаревший)"
+    "Mobile (deprecated)": "Мобильная версия (устаревший)"
   },
   "@nocobase/plugin-mobile-client": {
     "Add menu item": "Добавить пункт меню",
@@ -3177,7 +3177,7 @@
     "Auto start": "Автозапуск",
     "Custom domain": "Пользовательский домен",
     "Manage applications": "Управление приложениями",
-    "Multi-app manager": "Менеджер многоприложений",
+    "Multi-app manager": "Менеджер мультиприложений",
     "Pin to menu": "Закрепить в меню",
     "Standalone deployment": "Автономное развертывание",
     "Start mode": "Режим запуска",
